@@ -9,19 +9,19 @@
 </a>
 <!-- <a href="https://t.me/shivam7374">
   <img align="left" alt="shivam7374's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>-->
+<a href="https://www.instagram.com/singla5453">
+  <img align="left" alt="singla5453's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/shivam7374">
-  <img align="left" alt="shivam7374's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/shivam7374">
+<!-- <a href="https://www.reddit.com/user/shivam7374">
   <img align="left" alt="shivam7374's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://leetcode.com/shivam7374">
   <img align="left" alt="shivam7374's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/shivam7374"> -->
-  <!-- <img align="left" alt="shivam7374's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> -->
+<a href="https://www.codechef.com/users/shivam491"> 
+   <img align="left" alt="shivam491's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=shivam7374.shivam7374) -->
 <br><br>
