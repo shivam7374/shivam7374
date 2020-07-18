@@ -4,8 +4,8 @@
 <!-- <a href="https://twitter.com/shivam7374">
   <img align="left" alt="shivam7374 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/shivam7374">
-  <img align="left" alt="shivam7374's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shivam-singla7374">
+  <img align="left" alt="shivam-singla7374's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!-- <a href="https://t.me/shivam7374">
   <img align="left" alt="shivam7374's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
