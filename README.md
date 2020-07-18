@@ -13,6 +13,9 @@
 <a href="https://www.instagram.com/singla5453">
   <img align="left" alt="singla5453's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/shivam.singla.566">
+  <img align="left" alt="singla5453's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <!-- <a href="https://www.reddit.com/user/shivam7374">
   <img align="left" alt="shivam7374's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
