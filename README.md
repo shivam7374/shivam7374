@@ -22,9 +22,9 @@
 <a href="https://leetcode.com/shivam7374">
   <img align="left" alt="shivam7374's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> -->
-<a href="https://www.codechef.com/users/shivam491"> 
-   <img align="left" alt="shivam491's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
+<!-- <a href="https://www.codechef.com/users/"> 
+   <img align="left" alt="'s Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a> -->
 <a href="https://auth.geeksforgeeks.org/user/sahivam4u/articles"> 
    <img align="left" alt="shivam491's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" />
 </a>
