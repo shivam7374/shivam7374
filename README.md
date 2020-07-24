@@ -75,6 +75,7 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 
 ⭐️ Recent projects in which I have contributed :rocket:
 
+Link to Capstone Project- https://capstoneammazon.herokuapp.com/
 
 <a href="https://github.com/shivam7374/Capstone-Project">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Capstone-Project" />
