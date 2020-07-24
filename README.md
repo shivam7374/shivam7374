@@ -84,8 +84,16 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Social_Media_Sample_Project_2020_May" />
 </a>
 
+<a href="https://github.com/shivam7374/Ultimate-Tic-Tac-Toe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Ultimate-Tic-Tac-Toe" />
+</a>
+
 <a href="https://github.com/shivam7374/Slot-Machine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Slot-Machine" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Slot-Machine" />
+</a>
+
+<a href="https://github.com/shivam7374/Data-Structure">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Data-Structure" />
 </a>
 
 <a href="https://github.com/shivam7374/Realtime-Chat-App-with-WebSockets">
