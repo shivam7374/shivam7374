@@ -47,6 +47,7 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 - 🌱 I love to solve real-life problems with my projects;
 - 🤔 I’m learning Data Structure and Algorithm;
 - 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: shivamsingla491@gmail.com
 <!-- - ⚡️ Fun-Fact: I've got 180+ subscribers in 2 months in [**YouTube**](https://www.youtube.com/channel/UCDsCnqf4ZMhrTefiEd0dVrw/) -->
 <!-- - 📫 How to reach me:@gmail.com; -->
 <!-- - 📝[Resume](https://drive.google.com/file/d/17-XJ_6aZC98SDWgxdHBqAniP-q4zsKSm/view?usp=sharing) -->
@@ -69,10 +70,15 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 
 ![shivam7374's github stats](https://github-readme-stats.vercel.app/api?username=shivam7374&show_icons=true&hide_border=true)
 
+:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/shivam7374/shivam7374) :pencil:
 
 
+⭐️ Recent projects in which I have contributed :rocket:
 
 
+<a href="https://github.com/shivam7374/Capstone-Project">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374t&repo=Capstone-Project" />
+</a>
 <!-- ### Hi there 👋
 
 <!--
