@@ -75,9 +75,15 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 
 ⭐️ Recent projects in which I have contributed :rocket:
 
-Link to Capstone Project- https://capstoneammazon.herokuapp.com/
-
-<a href="https://github.com/shivam7374/Capstone-Project">
+Link to 
+1) Capstone Project - https://capstoneammazon.herokuapp.com/
+2) Ultimate Tic Tac Toe - https://shivam7374.github.io/Ultimate-Tic-Tac-Toe/
+3) Slot Machine Game - https://shivam7374.github.io/Slot-Machine/
+4) Encryption Decryption Machine - https://shivam7374.github.io/Encryption-and-Decryption/
+5) To Do List - https://shivam7374.github.io/To-Do-List-JQuery/
+6) Canvas Game - https://shivam7374.github.io/Simple-Canvas-Game/
+7) Spin and Win Game - https://shivam7374.github.io/Spin-And-Win-Wheel-CB/
+<!-- <a href="https://github.com/shivam7374/Capstone-Project">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Capstone-Project" />
 </a>
 
@@ -99,7 +105,7 @@ Link to Capstone Project- https://capstoneammazon.herokuapp.com/
 
 <a href="https://github.com/shivam7374/Realtime-Chat-App-with-WebSockets">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Realtime-Chat-App-with-WebSockets" />
-</a>
+</a> -->
 
 <!-- ### Hi there 👋
 
