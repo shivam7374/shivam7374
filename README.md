@@ -10,9 +10,9 @@
 <!-- <a href="https://t.me/shivam7374">
   <img align="left" alt="shivam7374's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>-->
-<a href="https://www.instagram.com/singla5453">
+<!-- <a href="https://www.instagram.com/singla5453">
   <img align="left" alt="singla5453's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 <a href="https://www.facebook.com/shivam.singla.566">
   <img align="left" alt="singla5453's facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -24,6 +24,9 @@
 </a> -->
 <a href="https://www.codechef.com/users/shivam491"> 
    <img align="left" alt="shivam491's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://www.hackerrank.com/shivamsingla491"> 
+   <img align="left" alt="shivam491's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/sahivam4u/articles"> 
    <img align="left" alt="shivam491's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" />
