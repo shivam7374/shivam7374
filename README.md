@@ -77,12 +77,14 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 
 Link to 
 1) Capstone Project - https://capstoneammazon.herokuapp.com/
-2) Ultimate Tic Tac Toe - https://shivam7374.github.io/Ultimate-Tic-Tac-Toe/
-3) Slot Machine Game - https://shivam7374.github.io/Slot-Machine/
-4) Encryption Decryption Machine - https://shivam7374.github.io/Encryption-and-Decryption/
-5) To Do List - https://shivam7374.github.io/To-Do-List-JQuery/
-6) Canvas Game - https://shivam7374.github.io/Simple-Canvas-Game/
-7) Spin and Win Game - https://shivam7374.github.io/Spin-And-Win-Wheel-CB/
+2) Social Media Blog Site - https://github.com/shivam7374/Social_Media_Sample_Project_2020_May
+3) Ultimate Tic Tac Toe - https://shivam7374.github.io/Ultimate-Tic-Tac-Toe/
+4) Slot Machine Game - https://shivam7374.github.io/Slot-Machine/
+5) Encryption Decryption Machine - https://shivam7374.github.io/Encryption-and-Decryption/
+6) To Do List - https://shivam7374.github.io/To-Do-List-JQuery/
+7) Canvas Game - https://shivam7374.github.io/Simple-Canvas-Game/
+8) Spin and Win Game - https://shivam7374.github.io/Spin-And-Win-Wheel-CB/
+9) Alien Shoot Out - https://shivam7374.github.io/Alien-Shoot-Out/
 <!-- <a href="https://github.com/shivam7374/Capstone-Project">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Capstone-Project" />
 </a>
