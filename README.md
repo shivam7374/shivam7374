@@ -1,4 +1,4 @@
-### Hello 👋, I'm [shivam7374](https://sites.google.com/view/hackerspaceai) 
+### Hello 👋, I'm [shivam7374](https://sites.google.com/view/hackerspaceai)
 
 <br/>
 <!-- <a href="https://twitter.com/shivam7374">
@@ -33,7 +33,9 @@
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=shivam7374.shivam7374) -->
+
 <br><br>
+
 <!-- I'm in **GitHub Research** 🚀 || **Google Developer Group** from India. <br />
 I'm a Community Team Lead 🙍🏽‍♂️ [@ENITH](https://github.com/E-N-I-T-H)  <br />
 And Community Member 👨🏽‍💼[@StudentCodeIn](https://github.com/StudentCode-in).  <br />
@@ -44,15 +46,16 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 **Talking about Personal Stuffs:**
 
 <!-- - 👨🏽‍💻 I’m currently working on [AI ML Cloud Projects](https://hackaday.io/shivam7374); -->
+
 - 🌱 I love to solve real-life problems with my projects;
 - 🤔 I’m learning Data Structure and Algorithm;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: shivamsingla491@gmail.com
-<!-- - ⚡️ Fun-Fact: I've got 180+ subscribers in 2 months in [**YouTube**](https://www.youtube.com/channel/UCDsCnqf4ZMhrTefiEd0dVrw/) -->
-<!-- - 📫 How to reach me:@gmail.com; -->
-<!-- - 📝[Resume](https://drive.google.com/file/d/17-XJ_6aZC98SDWgxdHBqAniP-q4zsKSm/view?usp=sharing) -->
+  <!-- - ⚡️ Fun-Fact: I've got 180+ subscribers in 2 months in [**YouTube**](https://www.youtube.com/channel/UCDsCnqf4ZMhrTefiEd0dVrw/) -->
+  <!-- - 📫 How to reach me:@gmail.com; -->
+  <!-- - 📝[Resume](https://drive.google.com/file/d/17-XJ_6aZC98SDWgxdHBqAniP-q4zsKSm/view?usp=sharing) -->
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -67,24 +70,25 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 
-
 ![shivam7374's github stats](https://github-readme-stats.vercel.app/api?username=shivam7374&show_icons=true&hide_border=true)
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/shivam7374/shivam7374) :pencil:
 
-
 ⭐️ Recent projects in which I have contributed :rocket:
 
-Link to 
-1) Capstone Project - https://capstoneammazon.herokuapp.com/
-2) Social Media Blog Site - https://github.com/shivam7374/Social_Media_Sample_Project_2020_May
-3) Ultimate Tic Tac Toe - https://shivam7374.github.io/Ultimate-Tic-Tac-Toe/
-4) Slot Machine Game - https://shivam7374.github.io/Slot-Machine/
-5) Encryption Decryption Machine - https://shivam7374.github.io/Encryption-and-Decryption/
-6) To Do List - https://shivam7374.github.io/To-Do-List-JQuery/
-7) Canvas Game - https://shivam7374.github.io/Simple-Canvas-Game/
-8) Spin and Win Game - https://shivam7374.github.io/Spin-And-Win-Wheel-CB/
-9) Alien Shoot Out - https://shivam7374.github.io/Alien-Shoot-Out/
+Link to
+
+1. Capstone Project - https://capstoneammazon.herokuapp.com/
+2. Social Media Blog Site - https://github.com/shivam7374/Social_Media_Sample_Project_2020_May
+3. Movie Store App - https://shivam7374.github.io/Movie-Store-React/
+4. FaceGram Social App - https://github.com/shivam7374/Facegram
+5. Ultimate Tic Tac Toe - https://shivam7374.github.io/Ultimate-Tic-Tac-Toe/
+6. Slot Machine Game - https://shivam7374.github.io/Slot-Machine/
+7. Encryption Decryption Machine - https://shivam7374.github.io/Encryption-and-Decryption/
+8. To Do List - https://shivam7374.github.io/To-Do-List-JQuery/
+9. Canvas Game - https://shivam7374.github.io/Simple-Canvas-Game/
+10. Spin and Win Game - https://shivam7374.github.io/Spin-And-Win-Wheel-CB/
+11. Alien Shoot Out - https://shivam7374.github.io/Alien-Shoot-Out/
 <!-- <a href="https://github.com/shivam7374/Capstone-Project">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Capstone-Project" />
 </a>
@@ -124,4 +128,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
+-->
