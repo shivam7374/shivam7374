@@ -2,7 +2,7 @@
 
 # I'm [Shivam Singla](https://github.com/shivam7374),
 
-an 18 yo <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> sophomore at Netaji Subhas University of Technolgy , doing Bachelor's in Computer Science and Engineering.
+an 19 year old <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> sophomore at Netaji Subhas University of Technolgy , doing Bachelor's in Computer Science and Engineering.
 
 <br/>
 <!-- <a href="https://twitter.com/shivam7374">
