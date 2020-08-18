@@ -71,6 +71,12 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam7374" alt="shivam7374" /> </p>
+ 
+<!-- <br>
+<img src="https://github-readme-stats.vercel.app/api?username=shivam7374&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> -->
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
@@ -135,7 +141,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam7374" alt="shivam7374" /> </p>
- 
-<!-- <br>
-<img src="https://github-readme-stats.vercel.app/api?username=shivam7374&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> -->
