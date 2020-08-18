@@ -51,6 +51,7 @@ Beside's programming, I'm a [YouTuber](https://www.youtube.com/channel/UCDsCnqf4
 
 <!-- - 👨🏽‍💻 I’m currently working on [AI ML Cloud Projects](https://hackaday.io/shivam7374); -->
 
+- 👨🏻‍💻 I’m currently working on a Web-Dev project
 - 🌱 I love to solve real-life problems with my projects;
 - 🤔 I’m learning Data Structure and Algorithm;
 - 💬 Ask me about anything, I am happy to help;
@@ -134,3 +135,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam7374" alt="shivam7374" /> </p>
+ 
+<!-- <br>
+<img src="https://github-readme-stats.vercel.app/api?username=shivam7374&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> -->
