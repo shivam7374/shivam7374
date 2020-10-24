@@ -96,7 +96,6 @@ Link to
 2. Social Media Blog Site - https://github.com/shivam7374/Social_Media_Sample_Project_2020_May
 3. Movie Store App - https://shivam7374.github.io/Movie-Store-React/
 4. Breakout Atari - https://shivam7374.github.io/Atari-Breakout/
-<!-- 4. FaceGram Social App - https://github.com/shivam7374/Facegram -->
 5. Ultimate Tic Tac Toe - https://shivam7374.github.io/Ultimate-Tic-Tac-Toe/
 6. Slot Machine Game - https://shivam7374.github.io/Slot-Machine/
 7. Encryption Decryption Machine - https://shivam7374.github.io/Encryption-and-Decryption/
@@ -104,6 +103,10 @@ Link to
 9. Canvas Game - https://shivam7374.github.io/Simple-Canvas-Game/
 10. Spin and Win Game - https://shivam7374.github.io/Spin-And-Win-Wheel-CB/
 11. Alien Shoot Out - https://shivam7374.github.io/Alien-Shoot-Out/
+<!-- 4. FaceGram Social App - https://github.com/shivam7374/Facegram -->
+
+
+
 <!-- <a href="https://github.com/shivam7374/Capstone-Project">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shivam7374&repo=Capstone-Project" />
 </a>
