@@ -2,7 +2,7 @@
 
 # I'm [Shivam Singla](https://github.com/shivam7374),
 
-an 19 year old <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> sophomore at Netaji Subhas University of Technolgy , doing Bachelor's in Computer Science and Engineering.
+a 19 year old <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> sophomore at Netaji Subhas University of Technolgy , doing Bachelor's in Computer Science and Engineering.
 
 <br/>
 <!-- <a href="https://twitter.com/shivam7374">
@@ -95,7 +95,8 @@ Link to
 1. Capstone Project - https://capstoneammazon.herokuapp.com/
 2. Social Media Blog Site - https://github.com/shivam7374/Social_Media_Sample_Project_2020_May
 3. Movie Store App - https://shivam7374.github.io/Movie-Store-React/
-4. FaceGram Social App - https://github.com/shivam7374/Facegram
+4. Breakout Atari - https://shivam7374.github.io/Atari-Breakout/
+<!-- 4. FaceGram Social App - https://github.com/shivam7374/Facegram -->
 5. Ultimate Tic Tac Toe - https://shivam7374.github.io/Ultimate-Tic-Tac-Toe/
 6. Slot Machine Game - https://shivam7374.github.io/Slot-Machine/
 7. Encryption Decryption Machine - https://shivam7374.github.io/Encryption-and-Decryption/
